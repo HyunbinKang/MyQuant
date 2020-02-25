@@ -1,2 +1,3 @@
 # MyQuant
-everyday quant
+
+'퀀트 투자 포트폴리오 만들기' 책으로 실습한 코드입니다. 
